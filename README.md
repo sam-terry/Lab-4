@@ -3,3 +3,4 @@
 Practice with version control using GitHub
 
 This might cause a merge conflict
+# Partner - Tyler Cranmer
