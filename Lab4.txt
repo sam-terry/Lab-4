@@ -1,0 +1,15 @@
+NAME: Sam Terry | sam-terry
+PARTNER: Tyler Cranmer | tyler-cranmer
+
+
+Merge Resolution:
+
+commit 634cc5beec86bd9b24f19ae66e7bbd007e4ce259 (HEAD -> master)
+Merge: 522aa56 dcfd1a2
+Author: Sam Terry <samuelbuckleyterry@gmail.com>
+Date:   Sun Sep 20 18:50:54 2020 -0500
+
+    Merge branch 'master' of https://github.com/sam-terry/Lab-4
+    Resolved conflict with Tyler's changes
+
+
