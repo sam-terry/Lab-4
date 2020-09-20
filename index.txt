@@ -1,0 +1,18 @@
+CSPB 1300		Intro to Computing
+
+CSPB 2400		Computer Systems
+
+CSPB 2270		Data Structures
+
+CSPB 2824		Discrete Structures
+
+CSPB 3022		Data Science Algorithms
+
+CSPB 3104		Algorithms
+
+CSPB 3308		Methods and Tools and Software Development
+
+CSPB 3702		Cognitive Science
+
+CSPB 4122		Information Visualization 
+
