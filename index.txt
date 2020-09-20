@@ -16,3 +16,4 @@ CSPB 3702		Cognitive Science
 
 CSPB 4122		Information Visualization 
 
+CSPB 0xFF		Intro to Exhaustion
